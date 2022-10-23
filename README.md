@@ -1,4 +1,5 @@
 # WorldOfGames
  
-# 3 different games with saving scores. 
+Python example by simple games application. 
+
 # Enjoy! 
